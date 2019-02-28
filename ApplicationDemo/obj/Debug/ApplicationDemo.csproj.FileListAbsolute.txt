@@ -1,0 +1,11 @@
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\bin\Debug\ApplicationDemo.exe.config
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\bin\Debug\ApplicationDemo.exe
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\bin\Debug\ApplicationDemo.pdb
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\bin\Debug\EngineIO.dll
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\obj\Debug\ApplicationDemo.csprojResolveAssemblyReference.cache
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\obj\Debug\ApplicationDemo.Form1.resources
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\obj\Debug\ApplicationDemo.Properties.Resources.resources
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\obj\Debug\ApplicationDemo.csproj.GenerateResource.Cache
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\obj\Debug\ApplicationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\obj\Debug\ApplicationDemo.exe
+C:\Users\Annebicque\source\repos\ApplicationDemo\ApplicationDemo\obj\Debug\ApplicationDemo.pdb
